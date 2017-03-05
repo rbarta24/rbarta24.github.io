@@ -60,7 +60,7 @@ body {
 
   background-image: url('../img/primeair.jpg');
   background-size: cover;
-  background-position: top;
+  background-position: center;
   background-repeat: no-repeat;
   margin-bottom: 50px;
 }
