@@ -14,15 +14,15 @@ h3 {
 }
 
 .t1 {
-  color: #ffffff;
+  color: #333;
   font-family: 'Helvetica Neue Thin', 'HelveticaNeue-Thin', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
   font-size: 40px;
   text-align: left;
 }
 
-p1 {
+.p1 {
   font-size: 16px;
-  color: #ffffff;
+  color: #333;
   font-family: 'Helvetica Neue Thin', 'HelveticaNeue-Thin', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
   text-align: left;
 }
@@ -53,13 +53,16 @@ body {
   background-image: url('../img/clouds.jpg');
   background-size: cover;
   background-attachment: fixed;
-  background-position: center;
+  background-position: bottom;
   background-repeat: no-repeat;
 }
 .main {
 
-  background-image: url('../img/seattle.jpg');
+  background-image: url('../img/primeair.jpg');
   background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  margin-bottom: 50px;
 }
 .img-circle {
 width: 150px;
