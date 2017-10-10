@@ -50,7 +50,7 @@ body {
 .jumbotron {
   margin-top: 100px;
   font-family: 'Helvetica Neue Thin', 'HelveticaNeue-Thin', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
-  background-image: url('../img/range.jpg');
+  background-image: url('../img/clouds.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-position: bottom;
@@ -58,7 +58,7 @@ body {
 }
 .main {
 
-  background-image: url('../img/water.JPG');
+  background-image: url('../img/clouds.JPG');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
