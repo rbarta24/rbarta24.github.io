@@ -32,7 +32,7 @@ padding: 0;
 }
 
 body {
-  background-color: #505050;
+  background-color: grey;
   background-size: cover;
   width: 100%;
   background-attachment: fixed;
@@ -58,7 +58,7 @@ body {
 }
 .main {
 
-  background-image: url('../img/eldorado.JPG');
+  background-color: black;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
