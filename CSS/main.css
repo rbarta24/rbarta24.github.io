@@ -29,10 +29,12 @@ h3 {
 html {
 margin: 0;
 padding: 0;
+  background-color: #FF0000;
+
 }
 
 head {
-  background-color: #808080;
+  background-color: #FF0000;
 
       }
 
