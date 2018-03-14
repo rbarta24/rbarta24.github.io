@@ -1250,15 +1250,6 @@ General Styles - Owlcarousel
   transition: background, padding 0.4s ease-in-out 0s;
 }
 
-.navbar-logo {
-   border: 0;
-   position: absolute;
-   margin-top: 5px;
-
-
-}
-
-
 .navbar a {
   transition: color 0.125s ease-in-out 0s;
 }
